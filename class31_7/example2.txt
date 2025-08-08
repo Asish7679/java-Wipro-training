@@ -1,0 +1,10 @@
+Name: asish
+ID: 1
+Disease: fever
+Age: 22
+----------------------
+Name: manish
+ID: 3
+Disease: cold
+Age: 25
+----------------------
