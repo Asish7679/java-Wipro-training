@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="GoogleSuite">
+
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.google.com"/>
+    <parameter name="searchKey" value="wipro office"/>
+
+    <test name="GoogleParameterTest">
+        <classes>
+            <class name="day_3.google"/>
+        </classes>
+    </test>
+
+</suite>
